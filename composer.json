@@ -1,0 +1,9 @@
+{
+    "name": "shiro/shiro",
+    "type": "project",
+    "license": "home",
+    "minimum-stability": "stable",
+    "require": {
+        "str/str": "^1.0"
+    }
+}
